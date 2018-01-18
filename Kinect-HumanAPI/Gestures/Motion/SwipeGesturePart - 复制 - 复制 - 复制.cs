@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace SKotstein.Kinect.API.Gestures
 {
-    public class SwipeGesturePart_111 : IGesturePart
+    public class SwipeGesturePart_1111 : IGesturePart
     {
         public GesturePartResult CheckGesturePart(Body body)
         {
@@ -22,7 +22,7 @@ namespace SKotstein.Kinect.API.Gestures
         }
     }
 
-    public class SwipeGesturePart_222 : IGesturePart
+    public class SwipeGesturePart_2212 : IGesturePart
     {
         public GesturePartResult CheckGesturePart(Body body)
         {
@@ -37,7 +37,7 @@ namespace SKotstein.Kinect.API.Gestures
         }
     }
 
-    public class SwipeGesturePart_333 : IGesturePart
+    public class SwipeGesturePart_3313 : IGesturePart
     {
         public GesturePartResult CheckGesturePart(Body body)
         {
