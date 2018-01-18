@@ -59,6 +59,7 @@
     <Compile Include="Gestures\Hand\HandGesturePart.cs" />
     <Compile Include="Gestures\Motion\CircleGesturePart.cs" />
     <Compile Include="Gestures\Motion\MotionGestureFactory.cs" />
+    <Compile Include="Gestures\Motion\SwipeGesturePart - 复制 - 复制 - 复制.cs" />
     <Compile Include="Gestures\Motion\SwipeGesturePart - 复制 - 复制.cs" />
     <Compile Include="Gestures\Motion\SwipeGesturePart - 复制.cs" />
     <Compile Include="Gestures\Motion\SwipeGesturePart.cs" />
